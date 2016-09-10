@@ -1,12 +1,12 @@
 {
-  "name": "Envek-erlang",
-  "version": "0.1.0",
+  "name": "hetzner-erlang",
+  "version": "0.1.1",
   "author": "Andrey Novikov",
   "summary": "Installs latest Erlang from Erlang Solutions repositories",
   "license": "MIT",
-  "source": "https://github.com/Envek/puppet-erlang.git",
-  "project_page": "https://github.com/Envek/puppet-erlang",
-  "issues_url": "https://github.com/Envek/puppet-erlang/issues",
+  "source": "https://github.com/hetznerZA/puppet-erlang.git",
+  "project_page": "https://github.com/hetznerZA/puppet-erlang",
+  "issues_url": "https://github.com/hetznerZA/puppet-erlang/issues",
   "operatingsystem_support": [
     {
       "operatingsystem": "Debian",
