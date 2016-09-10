@@ -1,0 +1,16 @@
+{
+  "Gemfile": "90a49067c17828f7450f4dce041346ac",
+  "Gemfile.lock": "2c4a3f16f11e93b8af45a1718a0e0d58",
+  "README.md": "85d2b217a04d467a3a0824533ba3d09e",
+  "Rakefile": "879b0d187d354a9322d1b0baabf16309",
+  "manifests/init.pp": "4d3485933769a1b992c6210f26325f4f",
+  "manifests/install.pp": "def01edba9cc8db6378c2509bdda5f02",
+  "manifests/repository/apt.pp": "1389714ba461f627b37a034aee9e97aa",
+  "manifests/repository/yum.pp": "c6b06c13dd82e96411924cc28df64671",
+  "manifests/repository.pp": "68e00fee70e5f3e9f4436bb64407d2f2",
+  "metadata.json": "7750e9064c6d47b87942f8a5a0e2f4d2",
+  "spec/classes/erlang_spec.rb": "3c04597ed49de8dd150f82415b5b8e6f",
+  "spec/spec.opts": "a600ded995d948e393fbe2320ba8e51c",
+  "spec/spec_helper.rb": "fb2f254c711f52a42ea6b84022fafb9b",
+  "tests/init.pp": "dfb3594707ac211f3da9dbe762969ac1"
+}
