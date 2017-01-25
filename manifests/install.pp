@@ -1,12 +1,12 @@
-class erlang::install {
+class erlang::install ($version='1:19*') {
 
   package { $erlang::package:
     ensure  => present,
   }
-  
+
   apt::pin { $erlang::package:
     packages => $erlang::package,
-    version  => '18.*',
+    version  => $version,
     priority => 1001,
   }
 }
