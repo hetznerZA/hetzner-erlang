@@ -15,7 +15,7 @@ class erlang::repository::apt {
       src => false
     },
     key      => {
-      id     => 'E1D6A1C146C93526BB4BA625AAE6A8D0BBCB7254',
+      id     => '434975BD900CCBE4F7EE1B1ED208507CA14F4FCA',
       server => 'pool.sks-keyservers.net',
     }
   }
