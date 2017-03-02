@@ -37,6 +37,6 @@
     "erlang-solutions"
   ],
   "dependencies": [
-    {"name":"puppetlabs/apt","version_requirement":">= 1.0.0 <2.0.0"}
+    {"name":"puppetlabs/apt","version_requirement":">= 1.0.0 <3.0.0"}
   ]
 }
